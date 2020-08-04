@@ -1,2 +1,6 @@
 # hello-world
-Because GitHub told me to 
+Hi guys, 
+
+GitHub is making me do this! 
+
+John
